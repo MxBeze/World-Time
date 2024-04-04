@@ -24,6 +24,7 @@ font-size: 40px;
 h2 {
 font-size: 28px;
 margin: 0 0 5px;
+text-align: left;
 }
 
 select{
@@ -47,7 +48,7 @@ border: none;
 
 .date {
 opacity: 0.7;
-text-align: left;
+
 }
 
 .time {
