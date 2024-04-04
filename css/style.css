@@ -1,3 +1,62 @@
 body {
 text-align: center;
+background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/121/644/original/Michelle_Michael-Beze_Google.jpg?1712191651);
+background-size: cover;
+background-repeat: no-repeat;
+font-family: sans-serif;
+}
+
+.main{
+background: rgba(200, 200, 200, 0.8);
+box-shadow: rgba(100, 100, 112, 0.8) 0 7px 29px 0;
+color: black;
+max-width: 600px;
+margin: 30px auto;
+padding: 30px;
+border-radius: 5px;
+}
+
+h1 {
+font-family: sans-serif;
+font-size: 40px;
+}
+
+h2 {
+font-size: 28px;
+margin: 0 0 5px;
+}
+
+select{
+display: block;
+width: 100%;
+padding: 10px;
+border-radius: 5px;
+}
+
+.city {
+display: flex;
+justify-content: space-between;
+margin: 10px 0;
+border-bottom: 1px dashed palevioletred;
+padding: 10px 0;
+}
+
+.city:last-child {
+border: none;
+}
+
+.date {
+opacity: 0.7;
+text-align: left;
+}
+
+.time {
+font-size: 48px;
+font-weight: bold;
+}
+
+footer{
+font-weight:bold;
+color: crimson;
+opacity: 0.6;
 }
