@@ -47,7 +47,8 @@ citiesElement.innerHTML = `<div class="city" id="makurdi">
 <div class="date">${cityTime.format("dddd, D MMMM YYYY")}</div>
 </div>
 <div class="time">${cityTime.format("H:mm:ss")}</div>
-</div>`;
+</div>
+<a href="/">All Cities</a>`;
 }
 
 updateTime();
