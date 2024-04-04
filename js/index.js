@@ -24,3 +24,5 @@ londonTimeElement.innerHTML = londonTime.format("H:mm:ss");
 
 updateTime();
 setInterval(updateTime, 1000);
+
+
