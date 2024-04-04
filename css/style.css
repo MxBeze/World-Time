@@ -2,7 +2,7 @@ body {
 text-align: center;
 background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/121/644/original/Michelle_Michael-Beze_Google.jpg?1712191651);
 background-size: cover;
-background-repeat:round;
+background-repeat:no-repeat;
 font-family: sans-serif;
 }
 
